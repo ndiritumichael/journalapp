@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534652476775",
+    "firebase_url": "https://mikewilapp.firebaseio.com",
+    "project_id": "mikewilapp",
+    "storage_bucket": "mikewilapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534652476775:android:dfc0f3a41c528d12",
+        "android_client_info": {
+          "package_name": "com.mikewil.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534652476775-h30sd3k8ee80ljk0rpn78g33fk4vbtqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mikewil.journalapp",
+            "certificate_hash": "e2aaaf92e66f9044baa29a9a6ca5c947dddccc14"
+          }
+        },
+        {
+          "client_id": "534652476775-gaf57bj025t41s4nbar72qbell8mcbjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClr4h7U0OkfI01mGT_KcUxL40YTLJ0aPo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534652476775-gaf57bj025t41s4nbar72qbell8mcbjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
